@@ -2,10 +2,10 @@
 title: JUNVHUI
 description: 꾸준히 꾸준희 <br/> Steadily Steadily 
 url: https://junvhui.github.io
-avatar: /bg.png
+avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.png
+cover_image: /bg.jpeg
 
 # Gems
 plugins:
